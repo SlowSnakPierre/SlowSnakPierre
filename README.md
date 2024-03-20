@@ -11,7 +11,9 @@
 <br />
 
 <div align="center">
-🔭 I’m currently working on **a FiveM Server**
+
+🔭 I'm currently working on **a FiveM Server**
 
 🌱 I’m currently studying at **ENIGMA-School**
+
 </div>
