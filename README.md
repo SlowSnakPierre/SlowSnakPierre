@@ -64,9 +64,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img src="https://readme-stats-eight-khaki.vercel.app/api/top-langs/?username=slowsnakpierre&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img src="https://readme-stats-eight-khaki.vercel.app/api/top-langs/?username=slowsnakpierre&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=12&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   &emsp;
-  <img src="https://readme-stats-eight-khaki.vercel.app/api?username=slowsnakpierre&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img src="https://readme-stats-eight-khaki.vercel.app/api?username=slowsnakpierre&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=12" alt="readme stats" />
   <br />
   <br />
   <img src="https://github-profile-trophy.vercel.app/?username=slowsnakpierre" />
