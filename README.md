@@ -16,6 +16,14 @@
 
 🌱 I’m currently studying at **ENIGMA-School**
 
+💬 Ask me about **Lua, GLua or any web language !**
+
+📫 How to reach me : [slowsnakpierrepro@gmail.com](mailto://slowsnakpierrepro@gmail.com)
+
+👨‍💻 All of my projects are available at : [https://slowsnakpierre.com/](https://slowsnakpierre.com/)
+
+⚡ Fun fact You can contact me on my Portfolio too !
+
 </div>
 
 <div align="center">
