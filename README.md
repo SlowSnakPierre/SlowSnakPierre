@@ -18,7 +18,7 @@
 
 💬 Ask me about **Lua, GLua or any web language !**
 
-📫 How to reach me : [slowsnakpierrepro@gmail.com](mailto://slowsnakpierrepro@gmail.com)
+📫 How to reach me : slowsnakpierrepro@gmail.com
 
 👨‍💻 All of my projects are available at : [https://slowsnakpierre.com/](https://slowsnakpierre.com/)
 
