@@ -25,7 +25,7 @@
 ⚡ Fun fact You can contact me on my Portfolio too !
 
 </div>
-
+<br>
 <div align="center">
   <a href="https://www.youtube.com/@slowsnakpierre" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
