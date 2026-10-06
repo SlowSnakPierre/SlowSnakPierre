@@ -77,7 +77,7 @@
   <img src="https://readme-stats-eight-khaki.vercel.app/api?username=slowsnakpierre&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=12" alt="readme stats" />
   <br />
   <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=slowsnakpierre" />
+  <img src="https://github-profile-repo.vercel.app/?username=slowsnakpierre" />
 </div>
 
 <br/><br/>
